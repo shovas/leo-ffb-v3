@@ -10,4 +10,4 @@ I have uploaded it here as-is for posterity and the improvement of force feedbac
 
 ## Version 3? Not the commonly available version 2?
 
-Yes, it is "version 3". From what I've heard, source, for the commonly available Leo FFB 2.0 plugin, was lost at some point. Bodar support confirmed they couldn't find anything else related to Leo FFB. This version, besides missing a header file, does look like complete plugin source, however.
+Yes, it is "version 3". From what I've heard, source, for the commonly available Leo FFB 2.0 plugin, was lost at some point. Bodnar support confirmed they couldn't find anything else related to Leo FFB. This version, besides missing a header file, does look like complete plugin source, however.
